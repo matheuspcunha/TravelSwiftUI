@@ -1,2 +1,2 @@
-# first-app-in-swiftui
-📱✈️  A simple app travel built with SwiftUI
+# TravelSwiftUI
+📱✈️  My first app built with SwiftUI. A simple app travel.
